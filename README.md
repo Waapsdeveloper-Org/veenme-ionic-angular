@@ -24,7 +24,7 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/veenme-ionic-angular.git
+   git clone https://github.com/Waapsdeveloper-Org/veenme-ionic-angular.git
    cd veenme-ionic-angular
    ```
 
